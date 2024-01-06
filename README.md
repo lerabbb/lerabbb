@@ -2,7 +2,7 @@
   <h1 align="center">
     Hi there, I'm Lera
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  </h1>
+  
   <div id="badges">
     <a href="https://t.me/leraoaoaoaoa">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -15,6 +15,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lerabbb&style=flat-square&color=blue" alt=""/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8xODB2bXAyd2FvODB5dXlkMWt3OWF3ajQ1NzVqcTR1ZWJ4ZWNxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -38,7 +43,7 @@
 
 ### :bar_chart: Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lerabbb&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerabbb&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerabbb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerabbb&layout=compact&theme=dracula)
 
