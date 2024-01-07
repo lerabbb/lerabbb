@@ -1,8 +1,10 @@
-<div id="header" align="center">
-  <h1 align="center">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8xODB2bXAyd2FvODB5dXlkMWt3OWF3ajQ1NzVqcTR1ZWJ4ZWNxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" height=270/>
+
+  <h1>
     Hi there, I'm Lera
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  
+  </h1>
+
   <div id="badges">
     <a href="https://t.me/leraoaoaoaoa">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -14,15 +16,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lerabbb&style=flat-square&color=blue" alt=""/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8xODB2bXAyd2FvODB5dXlkMWt3OWF3ajQ1NzVqcTR1ZWJ4ZWNxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :raising_hand_woman: About Me :
 
@@ -44,6 +37,4 @@
 ### :bar_chart: Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerabbb&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerabbb&layout=compact&theme=dracula)
-
