@@ -12,8 +12,11 @@
     <a href="https://www.instagram.com/_lerabbb_?igsh=NTc4MTIwNjQ2YQ==">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="mailto:lerabubl@gmail.com">
+    <a href="mailto:v.bazarguroeva@alumni.nsu.ru">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="www.linkedin.com/in/valeria-bazarguroeva-303388422">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 
